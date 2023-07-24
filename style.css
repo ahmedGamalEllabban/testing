@@ -1,0 +1,17 @@
+.error {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: orange;
+    max-width: 300px;
+
+}
+
+.success {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: rgb(0, 163, 82);
+    max-width: 300px;
+
+}
