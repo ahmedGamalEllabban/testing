@@ -1,7 +1,7 @@
 <?php
-$dsn = 'mysql:host=localhost;dbname=project';
-$user = 'root';
-$password = '';
+$dsn = 'mysql:host=bwqo9wjftzjivk3xumhe-mysql.services.clever-cloud.com;dbname=bwqo9wjftzjivk3xumhe';
+$user = 'unhrw2fljxhj82eu';
+$password = 'x4dd66dpaJPlJJy8ZDwg';
 
 try {
     $connection = new PDO($dsn, $user, $password);
